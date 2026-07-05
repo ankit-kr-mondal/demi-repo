@@ -1,7 +1,7 @@
 ## DEMO REPO
 
 This is a readme file
-<br><br>
+<br>
 Adding line 2
-<br><br>
+<br>
 adding another feature
